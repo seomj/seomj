@@ -18,7 +18,7 @@
   aws, docker, kubernetes, jenkins
   Jira, confluence -->
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <br>
+    <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=for-the-badge&logo=shell script&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
