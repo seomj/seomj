@@ -1,5 +1,8 @@
-### Seomj's Github 👋
 <div style="display:flex; flex-direction:row;">
+  <h1>
+    Seomj's Github 👋 
+  </h1>
+
 
 <!--
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
