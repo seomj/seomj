@@ -21,8 +21,7 @@
     <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
-
-<br><br>
+  </div><br>
 
   ## 🙋‍♀️ About ME
   <div style="display:flex; flex-direction:row;">
