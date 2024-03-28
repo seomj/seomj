@@ -12,7 +12,7 @@
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-  ## Skill
+  ## 🛠 Skill
   <div style="display:flex; flex-direction:row;">
   <!-- python, shell script
   aws, docker, kubernetes, jenkins
