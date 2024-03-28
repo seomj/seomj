@@ -6,9 +6,6 @@
   <a href="https://seomj74.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
   </a>
-  <a href="https://seomj74.tistory.com/">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
-  </a>
 </div><br>
 
 <!--
@@ -16,7 +13,12 @@
 -->
 
   ## Skill
-  
+  <div style="display:flex; flex-direction:row;">
+  <!-- python, shell script
+  aws, docker, kubernetes, jenkins
+  Jira, confluence -->
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <!--
 **seomj/seomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
