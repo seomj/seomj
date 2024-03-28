@@ -3,6 +3,9 @@
   <p>
     Hello. I'm Minjae.
   </p>
+  <b>
+    DevOps | Cloud Devloper
+  </b>
 </div><br>
 
   ## 🛠 Skill
