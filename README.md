@@ -5,12 +5,10 @@
   </p>
   <a href="https://seomj74.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
+    <a href="https://www.linkedin.com/in/minjae-seo-seomj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White">
   </a>
 </div><br>
-
-<!--
-[![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
--->
 
   ## 🛠 Skill
   <div style="display:flex; flex-direction:row;">
@@ -28,6 +26,12 @@
     <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
+
+
+<!--
+[![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 **seomj/seomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
