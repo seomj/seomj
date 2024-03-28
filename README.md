@@ -1,26 +1,25 @@
-<!-- 
-<div style="display:flex; flex-direction:row;">
-  <h1>
-    Seomj's Github 👋 
-  </h1>
--->
-
-# Seomj's Github
+# Seomj's Github 👋 
 <div style="display:flex; flex-direction:row;">
 
 <!--
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-  ## Contact
+  ## Profile
   <div style="display:flex; flex-direction:row;">
+    Hello. I'm Minjae.
+    - DevOps
+    - Cloud Developer
     <a href="https://seomj74.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
     </a>
-    <a href="smj100394@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-      </a>
+    <a href="https://seomj74.tistory.com/">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
   </div><br>
+
+  ## Skill
+  
 
 <!--
 **seomj/seomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
