@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 
+<br>
+
   ## About ME
   <div style="display:flex; flex-direction:row;">
     <a href="https://seomj74.tistory.com/">
@@ -26,6 +28,9 @@
     </a>
     <a href="https://www.linkedin.com/in/minjae-seo-seomj/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White">
+    </a>
+    <a href="mailto:smj100394@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=smj100394@gmail.com"/>
     </a>
   </div>
 
