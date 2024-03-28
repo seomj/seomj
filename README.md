@@ -1,22 +1,19 @@
 # Seomj's Github 👋 
 <div style="display:flex; flex-direction:row;">
+  <p>
+    Hello. I'm Minjae.
+  </p>
+  <a href="https://seomj74.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
+  </a>
+  <a href="https://seomj74.tistory.com/">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+  </a>
+</div><br>
 
 <!--
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-  ## Profile
-  <div style="display:flex; flex-direction:row;">
-    <p>
-      Hello. I'm Minjae.
-    </p>
-    <a href="https://seomj74.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
-    </a>
-    <a href="https://seomj74.tistory.com/">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-  </div><br>
 
   ## Skill
   
