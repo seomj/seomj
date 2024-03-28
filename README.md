@@ -1,4 +1,5 @@
-### Hi 👋
+### Seomj's Github 👋
+<div style="display:flex; flex-direction:row;">
 
 <!--
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
