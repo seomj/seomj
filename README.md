@@ -3,18 +3,10 @@
   <p>
     Hello. I'm Minjae.
   </p>
-  <a href="https://seomj74.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
-    <a href="https://www.linkedin.com/in/minjae-seo-seomj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White">
-  </a>
 </div><br>
 
   ## 🛠 Skill
   <div style="display:flex; flex-direction:row;">
-  <!-- python, shell script
-  aws, docker, kubernetes, jenkins
-  Jira, confluence -->
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -27,6 +19,15 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 
+  ## About ME
+  <div style="display:flex; flex-direction:row;">
+    <a href="https://seomj74.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
+    </a>
+    <a href="https://www.linkedin.com/in/minjae-seo-seomj/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White">
+    </a>
+  </div>
 
 <!--
 [![seomj's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj)](https://github.com/anuraghazra/github-readme-stats)
