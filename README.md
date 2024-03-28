@@ -21,7 +21,7 @@
 
 <br>
 
-  ## About ME
+  ## 🙋‍♀️ About ME
   <div style="display:flex; flex-direction:row;">
     <a href="https://seomj74.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=White">
