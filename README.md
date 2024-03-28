@@ -24,10 +24,10 @@
   ## About ME
   <div style="display:flex; flex-direction:row;">
     <a href="https://seomj74.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=White">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=White">
     </a>
     <a href="https://www.linkedin.com/in/minjae-seo-seomj/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=White">
     </a>
     <a href="mailto:smj100394@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=smj100394@gmail.com"/>
