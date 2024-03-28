@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=JEnkins&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Conflunece&logoColor=white">
+    <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 
 <!--
 **seomj/seomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
