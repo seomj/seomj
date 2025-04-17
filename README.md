@@ -13,15 +13,15 @@
   ## 🛠 Skill
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?style=for-the-badge&logo=GNU Bash&logoColor=white">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <br>
-    <img src="https://img.shields.io/badge/Amazon Web Services-232F3E.svg?style=for-the-badge&logo=Amazon Web Services&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
   </div><br>
 
   ## 🙋‍♀️ About ME
