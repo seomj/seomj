@@ -44,6 +44,5 @@ AWS Certified Solutions Architect Associate - <em>Amazon Web Service &nbsp; 2024
 <div align="center">
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smj100394)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seomj&show_icons=true&theme=default&hide_border=true)
 
 </div>
