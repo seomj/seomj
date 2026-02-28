@@ -22,7 +22,7 @@ Wins Intern &nbsp; <em> 2024. 07 - 2024. 12 </em>
 KaKao Cloud School 3th - <em>Engineering Track &nbsp; 2023. 05 - 2023. 11 </em>
 </p>
 <p align="center">
-Best of the Best 10th - <em> &nbsp; 2021. 07 - 2022. 02 </em>
+Best of the Best 10th <em> &nbsp; 2021. 07 - 2022. 02 </em>
 </p> 
 <p align="center">
 JoongBu University of Korea - <em>Information Security &nbsp;   2019. 03 - 2025. 02 </em>
