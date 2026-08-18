@@ -2,21 +2,24 @@
 
 ## 🛠 Skill
   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
   </div><br>
   
 ## 💼 Education & Experience
 <p align="center">
-SSAFY 14th - <em>Java Track &nbsp; 2025. 07 - now </em>
+Braincrew - <em>DevOps Engineer &nbsp; 2026. 08 - now </em>
 </p> 
 <p align="center">
-Wins Intern &nbsp; <em> 2024. 07 - 2024. 12 </em>
+SSAFY 14th - <em>Java Track &nbsp; 2025. 07 - 2026. 06 </em>
+</p> 
+<p align="center">
+Wins (Intern) - <em>System Engineer (Developer) &nbsp; <em> 2024. 07 - 2024. 12 </em>
 </p> 
 <p align="center">
 KaKao Cloud School 3th - <em>Engineering Track &nbsp; 2023. 05 - 2023. 11 </em>
