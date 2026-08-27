@@ -19,7 +19,7 @@ Braincrew - <em>DevOps Engineer &nbsp; 2026. 08 - now </em>
 SSAFY 14th - <em>Java Track &nbsp; 2025. 07 - 2026. 06 </em>
 </p> 
 <p align="center">
-Wins (Intern) - <em>System Engineer (Developer) &nbsp; <em> 2024. 07 - 2024. 12 </em>
+Wins (Intern) - <em>System Engineer (Developer) &nbsp; 2024. 07 - 2024. 12 </em>
 </p> 
 <p align="center">
 KaKao Cloud School 3th - <em>Engineering Track &nbsp; 2023. 05 - 2023. 11 </em>
